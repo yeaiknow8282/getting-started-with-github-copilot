@@ -1,0 +1,3 @@
+Host ssh.dev.azure.com
+  IdentityFile ~/.ssh/id_rsa_azure
+  IdentitiesOnly yes
